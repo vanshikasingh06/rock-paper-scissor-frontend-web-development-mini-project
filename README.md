@@ -1,2 +1,2 @@
-# rock paper scissor frontend web development mini project
+# Rock paper scissors - frontend web development mini project
  
