@@ -13,6 +13,7 @@ background-color: black;
 color: aliceblue;
 height: 5rem;
 line-height: 5rem;
+text-decoration-line: underline;
 }
 .choice {
     height: 165px;
