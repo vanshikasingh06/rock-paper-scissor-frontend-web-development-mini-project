@@ -1,7 +1,7 @@
 # Rock paper scissors - frontend web development mini project
  
 
-Each player chooses either rock/stone, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
+Each player chooses either rock/stone, paper, or scissors. The items chosen by player and computer are compared, and whosoever chooses the more powerful item wins the game.
 
 ## The possible outcomes are:
 
